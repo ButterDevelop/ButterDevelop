@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hi there!
-I'm a developer with years of experience and a passion for programming that started in childhood from my love for games. My profile features a selection of top open-source projects that showcase my skills in C#, ASP.NET, and modern technologies.
+I'm a developer with years of experience and a passion for programming that started in childhood from my love for games. My profile features a selection of top open-source projects that showcase my skills in C#, ASP.NET, and modern technologies. Check the pins at least.
 
-Inside my profile:
+But there are some recent repos which are private just for now, but I want to let you know about them:
 
 - **BlumBotFarm:** The backend of a project that will be available soon (currently, only the frontend is open).
 - **Statistical Project:** A multi-year development for automating Steam trading, featuring automated data parsers, massive datasets, a PyTorch neural network for data processing, and a bot with intelligent human-like algorithms.
