@@ -7,6 +7,7 @@ But there are some recent repos which are private just for now, but I want to le
 - **BlumBotFarm:** The backend of a project that will be available soon (currently, only the frontend is open).
 - **Statistical Project:** A multi-year development for automating Steam trading, featuring automated data parsers, massive datasets, a PyTorch neural network for data processing, and a bot with intelligent human-like algorithms.
 - **Telegram Mini-Application:** A system designed for millions of users, built with ASP.NET and a microservices architecture. It leverages MongoDB with bit masking for performance, CDN, RabbitMQ (ensuring message delivery even during failures), Docker Compose, Kubernetes, AWS with Blue/Green deployment, Redis, high test coverage including integration tests, and automated deployment via GitHub Actions. The frontend is built with Next.js.
+
 My journey is driven by continuous self-learning and the adoption of new ideas. I quickly adapt to new technologies, speak English, and have a strong foundation in mathematics and critical thinking. On top of that, I have musical training — so if needed, I can even organize a concert!
 
 I'm excited for new opportunities and interesting projects!
