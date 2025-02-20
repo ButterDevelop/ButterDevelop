@@ -29,8 +29,9 @@ I'm excited for new opportunities and interesting projects!
 
 ## **Web & Application Technologies:**  
 
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-- ![JSON](https://img.shields.io/badge/-JSON-EEEEEE?style=for-the-badge&logo=JSON&logoColor=512BD4) ![XML](https://img.shields.io/badge/-XML-AAD1AF?style=for-the-badge&logo=XML&logoColor=512BD4) ![WebSocket](https://img.shields.io/badge/-WebSocket-AAFF33?style=for-the-badge&logo=WebSocket&logoColor=512BD4) ![Regular Expressions](https://img.shields.io/badge/-Regular%20Expressions-AABBDD?style=for-the-badge&logo=Regex&logoColor=512BD4)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+![JSON](https://img.shields.io/badge/-JSON-EEEEEE?style=for-the-badge&logo=JSON&logoColor=512BD4) ![XML](https://img.shields.io/badge/-XML-AAD1AF?style=for-the-badge&logo=XML&logoColor=512BD4) ![WebSocket](https://img.shields.io/badge/-WebSocket-AAFF33?style=for-the-badge&logo=WebSocket&logoColor=512BD4) ![Regular Expressions](https://img.shields.io/badge/-Regular%20Expressions-AABBDD?style=for-the-badge&logo=Regex&logoColor=512BD4)
 
 ## **Databases:**  
 ### **SQL:**
